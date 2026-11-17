@@ -1,0 +1,3 @@
+structure,items,bytes,bytes_per_item
+ArrayStack,10000,439936,44.0
+LinkedStack,10000,788960,78.9
